@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Bu atlası kullanırsanız lütfen aşağıdaki biçimde atıf yapın. If you use this atlas, please cite it as below."
+title: "Baş-Boyun Anatomi Atlası"
+type: software
+authors:
+  - family-names: Ocak
+    given-names: Mert
+    affiliation: "Ankara Üniversitesi, Diş Hekimliği Fakültesi"
+    orcid: "https://orcid.org/0000-0001-6832-6208"
+version: "1.0.0"
+date-released: "2026-10-29"
+url: "https://mertuil.github.io/bas-boyun-anatomi-atlasi/"
+repository-code: "https://github.com/mertuil/bas-boyun-anatomi-atlasi"
+license:
+  - CC-BY-SA-4.0
+  - CC-BY-NC-SA-4.0
+  - MIT
+abstract: >-
+  Türkçe, etkileşimli 3B baş-boyun anatomi atlası: 599 yapılı Z-Anatomy modeli,
+  modele kayıtlı MR kesitleri, gerçek bir CBCT vakası ve 324 Türkçe–Latince yapı kartı.
+  An interactive 3D head and neck anatomy atlas in Turkish with Latin
+  (Terminologia Anatomica) terms.
+keywords:
+  - anatomi
+  - baş-boyun anatomisi
+  - diş hekimliği
+  - CBCT
+  - MR
+  - 3B atlas
+  - Terminologia Anatomica
+  - head and neck anatomy
