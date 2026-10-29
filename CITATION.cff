@@ -9,10 +9,11 @@ authors:
     orcid: "https://orcid.org/0000-0001-6832-6208"
 version: "1.0.0"
 date-released: "2026-10-29"
-url: "https://mertuil.github.io/bas-boyun-anatomi-atlasi/"
+url: "https://atlas.mertocak.com/"
 repository-code: "https://github.com/mertuil/bas-boyun-anatomi-atlasi"
 license:
   - CC-BY-SA-4.0
+  - CC-BY-SA-3.0
   - CC-BY-NC-SA-4.0
   - MIT
 abstract: >-

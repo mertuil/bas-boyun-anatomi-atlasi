@@ -2,7 +2,7 @@
 
 Türkçe, etkileşimli 3B baş-boyun anatomi atlası. Tıp, diş hekimliği, fizyoterapi, ergoterapi ve sağlık bilimleri öğrencileri için hazırlanmıştır.
 
-**Atlası açın:** https://mertuil.github.io/bas-boyun-anatomi-atlasi/
+**Atlası açın:** https://atlas.mertocak.com/
 
 ![Baş-Boyun Anatomi Atlası](og.png)
 
