@@ -1,0 +1,26 @@
+{
+  "title": "Baş-Boyun Anatomi Atlası",
+  "upload_type": "software",
+  "version": "1.0.1",
+  "creators": [
+    {
+      "name": "Ocak, Mert",
+      "affiliation": "Ankara Üniversitesi, Diş Hekimliği Fakültesi",
+      "orcid": "0000-0001-6832-6208"
+    }
+  ],
+  "description": "<p>Türkçe, etkileşimli 3B baş-boyun anatomi atlası. Tıp, diş hekimliği, fizyoterapi, ergoterapi ve sağlık bilimleri öğrencileri için hazırlanmıştır. Latince terimler Terminologia Anatomica'ya (TA98, TA2) göredir.</p><ul><li>Model atlası: 599 yapıdan oluşan 3B baş-boyun modeli (Z-Anatomy)</li><li>MR kesitleri: modele kayıtlı T1 ve T2 ağırlıklı MR görüntüleri (IXI veri seti)</li><li>CBCT vakası: gerçek, anonimleştirilmiş bir KIBT vakası (ToothFairy3 veri seti, 74 yapı)</li><li>Yapı kartları: 324 Türkçe–Latince yapı kartı</li></ul><p>Atlas tarayıcıda çalışır: <a href=\"https://atlas.mertocak.com/\">https://atlas.mertocak.com/</a></p><p>Kart metinleri yapay zekâ desteğiyle (Claude, Anthropic) yazılmış ve birkaç turda gözden geçirilmiştir. Atlas eğitim amaçlıdır; tanı ve tedavi kararlarında kullanılamaz.</p><p><strong>Lisanslar parçalara göre farklıdır:</strong> kart metinleri ve model atlasından türetilen yüzeyler CC BY-SA 4.0; MR görüntüleri (IXI) CC BY-SA 3.0; CBCT vakası ve ondan türetilen yüzeyler (ToothFairy3) CC BY-NC-SA 4.0, yalnızca ticari olmayan kullanım; sayfanın kodu MIT. Ayrıntılar ve istenen atıflar arşivdeki LISANSLAR.md dosyasındadır.</p><p><em>English:</em> An interactive 3D head and neck anatomy atlas in Turkish with Latin (Terminologia Anatomica) terms. It combines a 599-structure 3D model (Z-Anatomy) with model-registered MR sections (IXI), a real, anonymised CBCT case (ToothFairy3) and 324 structure cards. Card texts were written with AI assistance and reviewed in several rounds; the atlas is for education only and must not be used for diagnosis or treatment. Licences differ by component (CC BY-SA 4.0, CC BY-SA 3.0, CC BY-NC-SA 4.0 for the CBCT case, MIT for the code); see LISANSLAR.md.</p>",
+  "keywords": [
+    "anatomi",
+    "baş-boyun anatomisi",
+    "diş hekimliği",
+    "CBCT",
+    "MR",
+    "3B atlas",
+    "Terminologia Anatomica",
+    "head and neck anatomy"
+  ],
+  "license": "cc-by-nc-sa-4.0",
+  "access_right": "open",
+  "language": "tur"
+}

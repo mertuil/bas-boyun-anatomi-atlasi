@@ -7,7 +7,7 @@ authors:
     given-names: Mert
     affiliation: "Ankara Üniversitesi, Diş Hekimliği Fakültesi"
     orcid: "https://orcid.org/0000-0001-6832-6208"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-29"
 url: "https://atlas.mertocak.com/"
 repository-code: "https://github.com/mertuil/bas-boyun-anatomi-atlasi"
