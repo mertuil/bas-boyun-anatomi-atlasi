@@ -1,5 +1,7 @@
 # Baş-Boyun Anatomi Atlası
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23773573.svg)](https://doi.org/10.5281/zenodo.23773573)
+
 Türkçe, etkileşimli 3B baş-boyun anatomi atlası. Tıp, diş hekimliği, fizyoterapi, ergoterapi ve sağlık bilimleri öğrencileri için hazırlanmıştır.
 
 **Atlası açın:** https://atlas.mertocak.com/
@@ -38,7 +40,9 @@ Ayrıntılar, kaynak veri setleri ve istenen atıflar [LISANSLAR.md](LISANSLAR.m
 
 Atlası bir çalışmada kullanırsanız lütfen atıf yapın (bkz. [CITATION.cff](CITATION.cff)):
 
-> Ocak M. Baş-Boyun Anatomi Atlası (Sürüm 1.0). 2026. https://github.com/mertuil/bas-boyun-anatomi-atlasi
+> Ocak M. Baş-Boyun Anatomi Atlası (Sürüm 1.0.1). Zenodo; 2026. doi:10.5281/zenodo.23773574
+
+Belirli bir sürüme değil atlasın tamamına atıf yapmak için tüm sürümleri kapsayan DOI'yi kullanın: [10.5281/zenodo.23773573](https://doi.org/10.5281/zenodo.23773573).
 
 CBCT vakasını kullanan yayınlar ayrıca ToothFairy3 için istenen çalışmalara atıf yapmalıdır (LISANSLAR.md).
 
@@ -64,4 +68,4 @@ Doç. Dr. Mert Ocak · Ankara Üniversitesi Diş Hekimliği Fakültesi · [merto
 
 ## English
 
-**Head and Neck Anatomy Atlas** — an interactive 3D atlas of the head and neck in Turkish, with Latin (Terminologia Anatomica) terms. It combines a 599-structure 3D model (Z-Anatomy) with model-registered MR sections (IXI), a real, anonymised CBCT case (ToothFairy3) and 324 structure cards. It runs in the browser on desktop and mobile. Card texts were written with AI assistance and reviewed in several rounds; the atlas is for education only and must not be used for diagnosis or treatment. Licences differ by component (CC BY-SA 4.0, CC BY-SA 3.0, CC BY-NC-SA 4.0 for the CBCT case, MIT for the code); see [LISANSLAR.md](LISANSLAR.md).
+**Head and Neck Anatomy Atlas** — an interactive 3D atlas of the head and neck in Turkish, with Latin (Terminologia Anatomica) terms. It combines a 599-structure 3D model (Z-Anatomy) with model-registered MR sections (IXI), a real, anonymised CBCT case (ToothFairy3) and 324 structure cards. It runs in the browser on desktop and mobile. Card texts were written with AI assistance and reviewed in several rounds; the atlas is for education only and must not be used for diagnosis or treatment. Licences differ by component (CC BY-SA 4.0, CC BY-SA 3.0, CC BY-NC-SA 4.0 for the CBCT case, MIT for the code); see [LISANSLAR.md](LISANSLAR.md). Archived on Zenodo: [10.5281/zenodo.23773573](https://doi.org/10.5281/zenodo.23773573) (all versions).
